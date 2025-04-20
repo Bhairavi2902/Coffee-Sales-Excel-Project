@@ -1,6 +1,5 @@
 # Coffee-Sales-Excel-Project
-Coffee Shop Sales Dashboard 
-Project Highlights:
+Project Highlights:  
 1. Data Gathering:
 The data was scattered across multiple sheets. I used VLOOKUP and INDEX MATCH functions to consolidate and connect it effectively.
 2. Data Cleaning:
@@ -12,6 +11,8 @@ Designed visualizations including a Line Chart (Coffee Sales Over Time) and Bar 
 4. Slicers:
  Added interactive slicers to allow filtering by different product parameters
 
-With this dashboard, a coffee shop owner can:
-Track sales trends over time
-Identify top customers and design targeted marketing campaigns
+With this dashboard, a coffee shop owner can:  
+Track sales trends over time  
+
+Identify top customers and design targeted marketing campaigns  
+
