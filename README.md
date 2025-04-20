@@ -13,6 +13,5 @@ Designed visualizations including a Line Chart (Coffee Sales Over Time) and Bar 
 
 With this dashboard, a coffee shop owner can:  
 Track sales trends over time  
-
 Identify top customers and design targeted marketing campaigns  
 
