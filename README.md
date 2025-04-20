@@ -1,4 +1,5 @@
-# Coffee-Sales-Excel-Project
+# Coffee-Sales-Excel-Project  
+![image alt](https://github.com/Bhairavi2902/Coffee-Sales-Excel-Project/blob/main/Coffee%20Sales%20Dashboard.png?raw=true)
 Project Highlights:  
 1. Data Gathering:
 The data was scattered across multiple sheets. I used VLOOKUP and INDEX MATCH functions to consolidate and connect it effectively.
